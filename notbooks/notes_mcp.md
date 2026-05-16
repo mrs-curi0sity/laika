@@ -2,7 +2,7 @@
 
 ## Was ist MCP?
 Einheitliches Protokoll damit LLMs externe Tools nutzen können.
-Analogie: USB für KI-Tools — ein Standard, viele Geräte.
+Analogie: "MCP = API für KI-Tools"
 Entwickelt von Anthropic, Ende 2024, open source.
 
 ## Die drei Rollen
